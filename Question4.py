@@ -66,7 +66,7 @@ def main(argv):
     #   a better name
     #
     if len(argv) != 3:
-        print("Usage: Q1_prototype.py <data file>> <PHU ID>> > <<csv file>>")
+        print("Usage: Question4.py <data file>> <PHU ID>>")
 
         # we exit with a zero when everything goes well, so we choose
         # a non-zero value for exit in case of an error
