@@ -47,7 +47,7 @@ def main(argv):
     #
     if len(argv) != 3:
         print("Usage:",
-                "create_name_plot.py <data file> <graphics file>")
+                "piePlotVisualization.py <data file> <graphics file>")
         sys.exit(-1)
 
     csv_filename = argv[1]
