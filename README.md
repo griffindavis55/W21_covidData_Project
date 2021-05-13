@@ -1,25 +1,17 @@
+be sure to run the main first to have access to seaborn and piplot to create the graphs needed
 
-# Project Workspace
+to access the up to date data files used in this project 
+https://data.ontario.ca/dataset/f4112442-bdc8-45d2-be3c-12efae72fb27/resource/455fd63b-603d-4608-8216-7d8647f43350/download/conposcovidloc.csv is used for all four questions
+question 3 uses this vaccine data set https://data.ontario.ca/dataset/752ce2b7-c15a-4965-a3dc-397bf405e7cc/resource/8a89caa9-511c-4568-af89-7f2174b4378c/download/vaccine_doses.csv
 
-This repl gives you a place to put your project work.  Plese add your data and script files to this workspace.
-
-Note that you can add files from your computer by dragging them in to the files pane
-
-# Data set locations
-
-You are encouraged to bring in relevant data sets of your own, however these are the ones that we have noted in the project discussion:
-
-* [Confirmed Cases of COVID-19](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario) : this is the data set we examined last week
-
-* [Government of Ontario Datasets](https://data.ontario.ca/dataset)
-    * This is the Open Government data portal.  There are many datasets available for analysis, on COVID-19 and on other topics.
-    * Data here is [licensed under the Open Government License - Ontario](https://www.ontario.ca/page/open-government-licence-ontario) and is available for many uses -- please see the license for details.  The [Open Government initiative was set up in 2016](https://www.ipc.on.ca/wp-content/uploads/2016/09/open-government-key-concepts-and-benefits.pdf).
-
-* [Government of Ontario Datasets tagged with "COVID-19"](https://data.ontario.ca/dataset?keywords_en=COVID-19)
-    * These are the subset of the above data tagged with this keyword
-
-* [Statistics Canada Health Profile Data](https://www12.statcan.gc.ca/health-sante/82-228/search-recherche/lst/page.cfm?Lang=E&GeoLevel=PR&GEOCODE=35)
-    * This data provides demographic and other information about specific Public Health Units within the province
-    * Statistics Canada ("StatsCan") has a variety of data tools, including the (Census)[https://www.statcan.gc.ca/eng/census?MM=1] of which the Public Health Profile data is a part
-
-
+to run question 1 the command line argument should be as follows Question1.py <data file for cases in ontario> <Public Health Unit ID you want to look at>
+followed by Question1visualisation.py <data file created by first script> <graphics file you want to output to>
+   
+to run question 2 the command line argument should be as follows Question2.py <data file for cases in ontario> <first Public Health Unit ID you want to look at> <second Public Health Unit ID you want to look at>
+followed by linePlotVisualization.py <data file created by first script> <graphics file you want to output to> <Q2>
+   
+to run question 3 the command line argument should be as follows Question3.py <data file for cases in ontario> <data file for vaccinations in ontario>
+followed by linePlotVisualization.py <data file created by first script> <graphics file you want to output to> <Q3>
+   
+to run question 4 the command line argument should be as follows Question4.py <data file for cases in ontario> <Public Health Unit ID you want to look at>
+followed by piePlotVisualization.py <data file created by first script> <graphics file you want to output to>
