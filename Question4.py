@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 
 '''
-  Author(s): Andrew Linington (1060878), Griffin Davis (1125177), Rashi Mathur (1125349), Adhyayan Bhandari(1135943)
-  Earlier contributors(s): Andrew Hamilton-Wright
+  Author(s): Griffin Davis
   Project: Data analysis on COVID-19 in Ontario
   Date of Last Update: Mar 21st, 2021.
 python Question_4/Q4_prototype.py conposcovidloc.csv 2236 > Q4Data2.csv
