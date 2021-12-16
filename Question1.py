@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 '''
 Question1.py
-  Author(s): Griffin Davis (1125177)
+  Author(s): Griffin Davis
   Project: Data analysis on COVID-19 in Ontario (Iteration 0)
   Date of Last Update: Mar 21st, 2021.
 
