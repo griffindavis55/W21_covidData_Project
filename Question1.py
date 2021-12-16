@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 '''
 Question1.py
-  Author(s): Andrew Linington (1060878), Griffin Davis (1125177), Rashi Mathur (1125349)
-  Earlier contributors(s): Andrew Hamilton-Wright
+  Author(s): Griffin Davis (1125177)
   Project: Data analysis on COVID-19 in Ontario (Iteration 0)
   Date of Last Update: Mar 21st, 2021.
 
