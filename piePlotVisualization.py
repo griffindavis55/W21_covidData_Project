@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 '''
-  Author(s): Andrew Linington (1060878), Griffin Davis (1125177), Rashi Mathur (1125349), Adhyayan Bhandari(1135943)
-  Earlier contributors(s): Andrew Hamilton-Wright, Simardeep Singh (1129156)
-  Project: Lab Assignment 5 Script (Iteration 0)
+  Author(s): Griffin Davis
+  Project: pie plot script (iteration 0)
   Date of Last Update: Mar 27th, 2021.
   Functional Summary
         Plotting program to plot question 4
