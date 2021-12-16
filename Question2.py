@@ -3,8 +3,7 @@
 Question2.py
 
 
-  Author(s): Rashi Mathur (1125349),Griffin Davis (1125177),Andrew Linington (1060878),Adhyayan Bhandari(1135943)
-  Earlier contributors(s): Andrew Hamilton-Wright
+  Author(s): Griffin Davis
   Project: Data analysis on COVID-19 in Ontario (Iteration 0)
   Date of Last Update: Mar 21st, 2021.
 
