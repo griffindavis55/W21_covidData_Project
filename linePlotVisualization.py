@@ -2,8 +2,7 @@
 
 '''
 linePlotVisualization.py
-  Author(s): Andrew Linington (1060878), Griffin Davis (1125177), Rashi Mathur (1125349)
-  Earlier contributors(s): Andrew Hamilton-Wright, Simardeep Singh (1129156)
+  Author(s): Griffin Davis (1125177)
   Project: Question 3
   Date of Last Update: Mar 27th, 2021.
 
